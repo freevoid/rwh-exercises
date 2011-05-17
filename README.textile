@@ -1,0 +1,13 @@
+h1. General
+
+This is tended to be a private collection of solved exercises from the yet another great book,
+
+*Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen*.
+
+There are "fulltext":http://book.realworldhaskell.org/read/ kindly available on the web.
+
+h1. License
+
+I don't care if someone want to pick something from here. If you concerned, see the LICENSE file.
+
+(c) 2011, Zakharov Nikolay.
